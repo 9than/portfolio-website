@@ -334,7 +334,7 @@ section {
     display: flex;
     text-align: initial;
     flex-wrap: wrap;
-    flex-direction: row;;
+    flex-direction: row;
     gap: 2.5rem;
     justify-content: space-around;
 }
@@ -363,8 +363,8 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 30%;
+    height: 30%;
 }
 
 .project-title {
