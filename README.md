@@ -1,0 +1,2 @@
+- A responsive portfolio website built using default HTML, CSS, and JavaScript. 
+- The website was built following a tutorial by Ademir Alijagic on his <a href="https://www.youtube.com/@howtobecomeadeveloper">youtube channel</a>.
